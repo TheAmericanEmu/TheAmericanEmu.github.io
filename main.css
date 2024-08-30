@@ -1,10 +1,56 @@
 img.pfpHeader{
     border-radius: 50px;
-}
-div.mainHeader{
-    padding: 10px;
+    border-color: black;
+
     
+}
+div.mainTitleHeader{
+    padding: 10px;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div.OverAllMainHeader{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: aqua;
+    align-content: center;
+    padding: 3px;
+    padding-bottom: 40;
+}
+
+div.toolBarRow {
+    background-color: wheat;
+    padding-inline: 30vw;
+    text-align: center;
+    
+}
+
+a.toolBarRow{
+    color: crimson;
+    padding-inline: 2vw;
+    p
+    
+}
+
+
+
+h3.bottomMainHeader{
+
+    text-align: center;
+    font-size: 13px;
+}
+h3.bottomMainHeader span{
+    padding: 2px;
+    border-radius: 30px;
+    background-color: gold;
+    font-family: 'Schoolbell', arial, serif ;
+}
+
+h1.TitleMainPage{
+    padding-inline: 10px;
+    vertical-align: top;
 }
