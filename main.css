@@ -1,0 +1,10 @@
+img.pfpHeader{
+    border-radius: 50px;
+}
+div.mainHeader{
+    padding: 10px;
+    
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: aqua;
+}
