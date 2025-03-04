@@ -16,7 +16,7 @@ let fft,
   currentEngery,
   Engerys = [];
 function preload() {
-  font = loadFont("minap .3/RADIOLAND.ttf");
+  font = loadFont("https://assets.editor.p5js.org/6595bb994a3acc001c3970ed/b66fe48a-c51f-4a18-bfa9-353cdeffebef.ttf?v=1741055463383");
 }
 
 function formate(number) {
@@ -76,7 +76,7 @@ function vis() {
 function setup() {
   createCanvas(400, 400, WEBGL);
   Randcolor = color(random(0, 255), random(0, 255), random(0, 255));
-  newTrack("minap .3/Rolling Along.mp4");
+  newTrack("https://assets.editor.p5js.org/6595bb994a3acc001c3970ed/dba11902-9da4-4a0a-a441-0c21ca3d39f6.mp4?v=1741055463383");
   playButton = createButton("⏵");
   fastFowrd = createButton(">>>");
   fastFowrd.mousePressed(() => {
