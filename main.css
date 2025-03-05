@@ -285,3 +285,20 @@ h1.TitleMainPage{
     padding-inline: 10px;
     vertical-align: top;
 }
+
+div.minamp{
+    background-color: black;
+    border-radius: 5px;
+    border-left: 15px;
+    border-right: 10px;
+    padding: 10px;
+    
+}
+
+div.contentbox{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 5px;
+    width: 300px;
+
+}
