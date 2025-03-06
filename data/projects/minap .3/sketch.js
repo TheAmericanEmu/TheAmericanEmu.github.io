@@ -64,11 +64,13 @@ function vis() {
     box(40, map(Engery, 0, 255, 400, 0));
     pop();
   }
-  let midEngery = Engerys[Engerys.length / 2];
+  let midEngery = Engerys[Engerys.length-1 / 2];
   fill(currentEngery, 100, 100);
   translate(0, -200);
+  
+  //console.log(currentEngery);
+  translate(0, currentEngery);
 
-  translate(0, map(midEngery, 0, 255, 400, 0));
   sphere(map(otherCurrentEngery, 0, 255, 5, 30));
   pop();
 }

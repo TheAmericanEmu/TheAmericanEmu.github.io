@@ -91,8 +91,6 @@ div.scrollBoxProjects{
 }
 
 div.certibox{
-    background-color: rgb(255, 255, 255);
-    border-radius: 40px;
     padding: 5px;
 
 
@@ -101,6 +99,7 @@ div.certibox{
 div.certibox img{
     width: 80%;
     height: auto;
+    border-radius: 10px;
 
 }
 div.certibox h3{
@@ -114,6 +113,7 @@ div.certibox h3 span{
     border-top-right-radius: 20px;
     padding-left: 20px;
     padding-right: 20px;
+
 
 
 }
