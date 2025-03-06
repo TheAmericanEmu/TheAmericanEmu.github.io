@@ -1,0 +1,162 @@
+{
+    "Credits": [
+        {
+            "Title": "Sounds and Music",
+            "Credits": [
+                {
+                    "Artist": "Jay_You",
+                    "Title": "music elevator ext part 2/3"
+                },
+                {
+                    "Artist": "greatsoundstube",
+                    "Title": "gear select.wav"
+                },
+                {
+                    "Artist": "Debsound",
+                    "Title": "Rally Car Idle Loop 05.wav"
+                },
+                {
+                    "Artist": "robin.kaf",
+                    "Title": "Mercedes Benz G500 - RPM Revs"
+                },
+                {
+                    "Artist": "JustInvoke",
+                    "Title": "Engine 3"
+                },
+                {
+                    "Title": "Nostalgic Ending Credits",
+                    "Artist": "tyops"
+                },
+                {
+                    "Title": "chill tune for a game.wav",
+                    "Artist": "Xythe"
+                },
+                {
+                    "Title": "Saint John String Quartet | Northwest Passage",
+                    "Artist": "SAINT JOHN STRING QUARTET"
+                }
+            ]
+        },
+        {
+            "Title": "Sprites",
+            "Credits": [
+                {
+                    "Artist": "Chasersgaming",
+                    "Title": "2D car sprite"
+                }
+            ]
+        },
+        {
+            "Title": "Particle Effects",
+            "Credits": [
+                {
+                    "Artist": "RagnaPixel",
+                    "Title": "Particle FX"
+                }
+            ]
+        },
+        {
+            "Title": "Background",
+            "Credits": [
+                {
+                    "Artist": "ansimuz",
+                    "Title": "Mountain Dusk Parallax background"
+                }
+            ]
+        },
+        {
+            "Title": "API",
+            "Credits": [
+                {
+                    "Artist": "Quinton Ashley",
+                    "Title": "p5play"
+                },
+                {
+                    "Artist": "lmccart & Contributors",
+                    "Title": "p5js"
+                },
+                {
+                    "Artist": "visnkmr",
+                    "Title": "factset"
+                }
+            ]
+        },
+        {
+            "Title": "Programers",
+            "Credits": [
+                {
+                    "Artist": "Colin Harrington-Ding",
+                    "Title": "Lead Programer"
+                },
+                {
+                    "Artist": "Colin Harrington-Ding",
+                    "Title": "Programer"
+                },
+                {
+                    "Artist": "Colin Harrington-Ding",
+                    "Title": "Who Gave The 9 year old a keyboard?!?!?!?!?!?!?!"
+                }
+            ]
+        },
+        {
+            "Title": "Technical Help",
+            "Credits": [
+                {
+                    "Artist": "Mr. Purdy",
+                    "Title": "Lead Technical Help"
+                },
+                {
+                    "Artist": "Mr. Purdy",
+                    "Title": "CHAD"
+                },
+                {
+                    "Artist": "Mr. Purdy",
+                    "Title": "Thank YOU!!!!! for all the help"
+                }
+            ]
+        },
+        {
+            "Title": "Play Testers",
+            "Credits": [
+                {
+                    "Artist": "Trey",
+                    "Title": "Play Tester"
+                },
+                {
+                    "Artist": "Mason",
+                    "Title": "Play Tester"
+                },
+                {
+                    "Artist": "Mathew",
+                    "Title": "Play Tester"
+                }
+            ]
+        },
+        {
+            "Title": "THANKS YOU FOR PLAYING!!!!!!",
+            "Credits": [
+                {
+                    "Artist": "YOU",
+                    "Title": "SEE"
+                },
+                {
+                    "Artist": "YEAR",
+                    "Title": "NEXT"
+                },
+                {
+                    "Artist": "Northwest Passage Studio",
+                    "Title": ""
+                }
+            ]
+        },
+        {
+            "Title": "'To find the hand of Franklin reaching for the Beaufort Sea'",
+            "Credits": [
+                {
+                    "Artist": "Stan Rodgers",
+                    "Title": ""
+                }
+            ]
+        }
+    ]
+}

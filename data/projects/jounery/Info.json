@@ -1,0 +1,41 @@
+{
+  "Credits": [
+    {
+      "Title": "How To play",
+      "Credits": [
+        {
+          "Artist": "Press W to go up through the gears",
+          "Title": "Press S to go down through the gears"
+        },
+        {
+          "Artist": "Each Gear as Different RPS limts",
+          "Title": "If that number goes to red your car will take damage"
+        },
+        {
+          "Artist": "Below 50% health you start to smoke",
+          "Title": "Bellow 25% health you start to be on fire"
+        },
+        {
+          "Artist": "If he hit zero you die",
+          "Title": ":)"
+        },
+        {
+          "Artist": "Try to go aslong as possiable ",
+          "Title": "Each loading screen equals a 1000 miles driven"
+        },
+        {
+          "Title": "There are no emines ",
+          "Artist": "There is nobody else just you and the rode"
+        },
+        {
+          "Title": "Rember Lower Gears more Power but harder to control",
+          "Artist": "Higher the gear the less power but more control"
+        },
+        {
+          "Title": "Remeber have fun",
+          "Artist": "And Good Luck"
+        }
+      ]
+    }
+  ]
+}
