@@ -60,7 +60,7 @@ function vis() {
     Engery = Engerys[i];
     translate(-200, map(Engery, 0, 255, 0, 400) / 2);
     translate(i * 10, 0);
-    fill(map(Engery, 0, 255, 0, 360), map(i, 0, 100, 100, 360), 100);
+    fill(map(Engery, 255, 0, 0, 360), map(i, 0, 100, 100, 360), 100);
     box(40, map(Engery, 0, 255, 400, 0));
     pop();
   }

@@ -22,11 +22,12 @@ div.body {
     background-color: rgb(255, 255, 255);
     display: flex;
     height: auto;
+    padding: 10px;
 
 }
 
 div.iframeDiv {
-    width: 600px;
+    width: auto;
     height: auto;
     padding: 0;
     overflow: hidden;
@@ -39,7 +40,7 @@ div.iframeDiv {
 }
 
 iframe.divelog {
-    width: 800px;
+    width: auto;
     height: 520px;
     zoom: 0.75;
     -moz-transform: scale(0.75);
@@ -88,6 +89,19 @@ div.scrollBoxProjects{
     background-color: rgb(255, 0, 0);
     border-radius: 30px;
     
+}
+
+div.certibox{
+    padding: 5px;
+
+
+}
+
+div.certibox img{
+    width: 80%;
+    height: auto;
+    border-radius: 10px;
+
 }
 
 div.certibox{
@@ -380,5 +394,51 @@ div.contentbox{
     border-radius: 20px;
     border: 5px;
     width: 300px;
+
+}
+
+div.gearBox{
+    padding: 5px;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10PX;
+
+
+}
+
+div.gearBox img{
+    width: 10%;
+    height: auto;
+    border-radius: 10px;
+    border-color: black;
+
+}
+
+div.gearBox{
+    padding: 5px;
+    background-color: white;
+
+
+}
+
+div.gearBox img{
+    width: 20%;
+    height: auto;
+    border-radius: 10px;
+
+}
+div.gearBox h3{
+    color: rgb(0, 0, 0);
+
+
+}
+div.gearBox h3 span{
+    background-color: gold;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
 
 }
