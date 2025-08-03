@@ -1,0 +1,306 @@
+img.pfpHeader{
+    border-radius: 50px;
+    border-color: black;
+
+    
+}
+
+
+
+div.scrollBox{
+    overflow-y: scroll;
+    height: 70vh;
+    padding: 10px;
+    scroll-padding: 20px;
+    
+    
+}
+
+
+div.scrollBoxProjects{
+    overflow-y: scroll;
+    height: 70vh;
+    padding: 10px;
+    scrollbar-width: thin;
+    display: flexbox;
+    width: 50vw;
+    background-color: rgb(61, 220, 132);
+    border-radius: 30px;
+    
+}
+
+div.awardBox{
+    background-color: silver;
+    border-radius: 40px;
+    padding-top: 0.1px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+
+}
+
+div.contactMe{
+    background-color: darkturquoise;
+    border-radius: 50px;
+    width: 30vw;
+    text-align: center;
+    height: max-content;
+    justify-content: flex-start;
+    float: left;
+    
+}
+
+div.contactMe h2{
+    text-align: center;
+    vertical-align: top;
+
+
+}
+div.contactMe h2 span{
+    background-color: gold;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+
+}
+
+div.contactMe h3{
+    text-align: center;
+    vertical-align: top;
+
+
+}
+div.aboutMeBox{
+    background-color: darkcyan;
+    border-radius: 30px;
+    width: 30vw;
+    padding: 30px;
+}
+
+div.aboutMeBox h2{
+    font-family: 'Schoolbell', arial, serif ;
+    text-align: center;
+}
+div.mainBody{
+    padding-top: 10px; 
+    display:flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    padding-block: 30px;
+}
+
+div.schedule{
+    width: fit-content;
+    height: 60vh;
+    background-color: aqua;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+div.news{
+    width: 40vw;
+    height: 60vh;
+    background-color: aqua;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+div.schedule div{
+    padding-inline: 30px;
+}
+
+div.projectCounter{
+    display: flex; 
+    padding-inline: 25px;
+    background-color: forestgreen;
+    border-radius: 30px;
+    width: fit-content;
+
+
+}
+div.projectCounter p{
+    padding-inline: 10px;
+}
+
+
+div.aboutMeBox h2 span{
+    background-color: silver;
+    border-radius: 30px;
+    color: gold;
+
+    
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+div.prices{
+    background-color: darkturquoise;
+    border-radius: 50px;
+    width: 30vw;
+    text-align: center;
+    align-content: right;
+    display: flow-root;
+    justify-content: flex-end;
+    float: right;
+    
+
+}
+
+div.prices h2{
+    text-align: center;
+    vertical-align: top;
+
+
+}
+div.prices h2 span{
+    background-color: green;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+div.prices h3 span{
+    background-color: skyblue;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+div.contactMe h3 span{
+    background-color: skyblue;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+div.awardBox h3{
+    padding-left: 10px;
+}
+
+div.awardBox p{
+    padding-left: 4px;
+}
+
+div.projectContentBox{
+    width: 50vw;
+    border-radius: 30px;
+    background-color: rgb(61, 220, 132);
+    border-bottom-right-radius: 0px;
+    height: fit-content;
+    padding: 3px;
+}
+div.projectContentBox h2{
+    text-align: center;
+}
+
+div.projectBox{
+    display: flex;
+    background-color: royalblue;
+    border-radius: 40px;
+    padding-top: 0.1px;
+    padding-bottom: 30px;
+    margin-bottom: 10px;
+    max-width: 50vw;
+    min-width: 40px;
+    width: 45vw;
+    
+
+}
+
+div.projectBox img{
+    padding-inline: 30vw;
+    padding: 10px;
+
+
+}
+div.projectBox h2 {
+
+    padding-left: 10px;
+    
+}
+
+
+div.projectBox hr {
+    width: 100px;
+    align-items: left;
+}
+
+div.mainTitleHeader{
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+div.OverAllMainHeader{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: aqua;
+    align-content: center;
+    padding: 3px;
+    padding-bottom: 40;
+    background-image: "flyingwalrusSites\\site_assets\\website_background.png" ;
+}
+
+div.toolBarRow {
+    background-color: aquamarine;
+    padding-inline: 30vw;
+    text-align: center;
+    border-top-color: black;
+    border-top-width: 10px;
+}
+
+a.toolBarRow{
+    color: rgb(0, 0, 0);
+    padding-inline: 2vw;
+    background-color: rgb(255, 183, 0);
+    border-radius: 30px;
+
+    
+}
+
+
+
+h3.bottomMainHeader{
+
+    text-align: center;
+    font-size: 13px;
+}
+h3.bottomMainHeader span{
+    padding: 2px;
+    border-radius: 30px;
+    background-color: gold;
+    font-family: 'Schoolbell', arial, serif ;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+h1.TitleMainPage{
+    padding-inline: 10px;
+    vertical-align: top;
+}
+
+div.minamp{
+    background-color: black;
+    border-radius: 5px;
+    border-left: 15px;
+    border-right: 10px;
+    padding: 10px;
+    
+}
+
+div.contentbox{
+    background-color: aqua;
+    border-radius: 20px;
+    border: 5px;
+    width: 300px;
+
+}
