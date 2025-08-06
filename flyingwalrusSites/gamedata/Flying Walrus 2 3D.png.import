@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c3w34j1uf4wgk"
-path="res://.godot/imported/Flying Walrus 2 3D.png-54c0d533469d92589907e02fa6285b50.ctex"
+uid="uid://uk548nvbavoq"
+path="res://.godot/imported/Flying Walrus 2 3D.png-b73ead3703ae1435afcbc0255bc87793.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Builds/V0.2.0/Web/Flying Walrus 2 3D.png"
-dest_files=["res://.godot/imported/Flying Walrus 2 3D.png-54c0d533469d92589907e02fa6285b50.ctex"]
+source_file="res://Builds/V0.2.1/Web/Flying Walrus 2 3D.png"
+dest_files=["res://.godot/imported/Flying Walrus 2 3D.png-b73ead3703ae1435afcbc0255bc87793.ctex"]
 
 [params]
 

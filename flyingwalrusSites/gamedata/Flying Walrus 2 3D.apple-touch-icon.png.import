@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://3vedbng3lods"
-path="res://.godot/imported/Flying Walrus 2 3D.apple-touch-icon.png-48f74396cec78633c8955036b9446fa9.ctex"
+uid="uid://ddwd6gn66k4w7"
+path="res://.godot/imported/Flying Walrus 2 3D.apple-touch-icon.png-dda40fa34e05e9bdde7cf9aa94a18c55.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Builds/V0.2.0/Web/Flying Walrus 2 3D.apple-touch-icon.png"
-dest_files=["res://.godot/imported/Flying Walrus 2 3D.apple-touch-icon.png-48f74396cec78633c8955036b9446fa9.ctex"]
+source_file="res://Builds/V0.2.1/Web/Flying Walrus 2 3D.apple-touch-icon.png"
+dest_files=["res://.godot/imported/Flying Walrus 2 3D.apple-touch-icon.png-dda40fa34e05e9bdde7cf9aa94a18c55.ctex"]
 
 [params]
 
